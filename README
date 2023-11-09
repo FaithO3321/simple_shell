@@ -1,0 +1,38 @@
+Simple Shell
+Description
+The Simple shell is a command line interface (CLI) for interacting with all Unix-like operating systems. It serves as medium for executing commands and managing processes. It is easy to apply and understand. The simple shell project helps students to build a custom shell using C language. The functions generated perform simple tasks including exit, concatenating strings, tokenizing, and handling all command line arguments.
+Features
+a. Built-in command: Built-in commands includes cd, exit and so on.
+b. Piping: This term is used to describe "|" operator, which is commonly called a piping command.
+c. Managing processes: It manage processes and run programs in background.
+d. Redirection: It is used to redirect the input and output given in the program.
+e. Execution of command: It is used to execute commands and different types of program.
+f. Simple syntax: The syntax is very easy and is similar to the Unix-like shell.
+g. Scripting: It allows the use of sequences of shell command while added in a file for customization
+h. Customization: It allow Users to me able to customize the environment variable.
+Getting Started
+1. Clone the Github repository.
+2. Add a README.md and README.
+3. Generate AUTHORS file.
+4. Run scripts.
+Usage
+1. Open a terminal.
+2. Launch the shell program.
+3. Apply the Built-in command on the shell system.
+Documentation
+1. Managing processes: It manage processes and run programs in background.
+2. Execution of command: It is used to execute commands and different kind of program.
+3. Simple syntax: The syntax is very easy and is similar to the Unix_like shell.
+4. Customization: It allow Users to me able to customize the environment variable.
+5. Scripting: It allows the use of sequences of shell command while added in a file for customization
+6. Built-in command: Built-in commands includes cd, exit and so on.
+7. Piping: This term is used to describe "|" operator, which is commonly called a piping command.
+Guide for configuration
+1. Setting Environment variable
+2. Creating aliases.
+3. Startup scripts.
+4. Advance configuration.
+Contribution
+This project was design by Faith Akinyi and Emma Ogutu.
+Acknowledgement
+This Simple Shell Project was inspired by various Unix-like implementation.
