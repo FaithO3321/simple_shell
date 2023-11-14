@@ -10,6 +10,6 @@ echo "# See authors.sh to make modifications." >> "$AUTHORS_FILE"
 echo "" >> "$AUTHORS_FILE"
 
 # Use Git to get a list of contributors and append to the authors file
-git log --format='%aN <%aE>' | sort -u >> "$AUTHORS_FILE"
+git log --format='%aN <%aE>' | sort -u | head -n 2  >> "$AUTHORS_FILE"
 
 echo "Authors file has been generated at $AUTHORS_FILE"
