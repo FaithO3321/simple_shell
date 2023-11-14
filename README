@@ -1,5 +1,5 @@
 Simple Shell
-Description of the collaboration project
+Description of the collaborative simple_shell project
 The Simple shell is a command line interface (CLI) for interacting with all Unix-like operating systems. It serves as medium for executing commands and managing processes. It is easy to apply and understand. The simple shell project helps students to build a custom shell using C language. The functions generated perform simple tasks including exit, concatenating strings, tokenizing, and handling all command line arguments.
 Features
 a. Built-in command: Built-in commands includes cd, pwd, ls, mkdir, rm, touch, exit and so on.
