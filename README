@@ -2,8 +2,8 @@ Simple Shell
 Description
 The Simple shell is a command line interface (CLI) for interacting with all Unix-like operating systems. It serves as medium for executing commands and managing processes. It is easy to apply and understand. The simple shell project helps students to build a custom shell using C language. The functions generated perform simple tasks including exit, concatenating strings, tokenizing, and handling all command line arguments.
 Features
-a. Built-in command: Built-in commands includes cd, exit and so on.
-b. Piping: This term is used to describe "|" operator, which is commonly called a piping command.
+a. Built-in command: Built-in commands includes cd, pwd, ls, mkdir, rm, touch, exit and so on.
+b. Piping: This term is used to describe "|" operator, which combines different commands.
 c. Managing processes: It manage processes and run programs in background.
 d. Redirection: It is used to redirect the input and output given in the program.
 e. Execution of command: It is used to execute commands and different types of program.
@@ -12,27 +12,26 @@ g. Scripting: It allows the use of sequences of shell command while added in a f
 h. Customization: It allow Users to me able to customize the environment variable.
 Getting Started
 1. Clone the Github repository.
-2. Add a README.md and README.
+2. Add a README.md and README(documentation).
 3. Generate AUTHORS file.
-4. Run scripts.
+4. Run scripts and debug.
 Usage
 1. Open a terminal.
 2. Launch the shell program.
 3. Apply the Built-in command on the shell system.
+4. Use prefered text editor to write codes.
 Documentation
-1. Managing processes: It manage processes and run programs in background.
+1. Managing processes: It runs and checks different programs.
 2. Execution of command: It is used to execute commands and different kind of program.
 3. Simple syntax: The syntax is very easy and is similar to the Unix_like shell.
-4. Customization: It allow Users to me able to customize the environment variable.
-5. Scripting: It allows the use of sequences of shell command while added in a file for customization
-6. Built-in command: Built-in commands includes cd, exit and so on.
-7. Piping: This term is used to describe "|" operator, which is commonly called a piping command.
+4. Customization: It is user friendly and can be customized differently.
+5. Scripting: It allows concatenation of comands to different file paths.
 Guide for configuration
-1. Setting Environment variable
-2. Creating aliases.
+1. Setting environment variable.
+2. Creating aliases for different commands.
 3. Startup scripts.
 4. Advance configuration.
 Contribution
-This project was design by Faith Akinyi and Emma Ogutu.
+This project was completed by Faith Akinyi and Emma Ogutu.
 Acknowledgement
-This Simple Shell Project was inspired by various Unix-like implementation.
+This Simple Shell Project was inspired by Linux.
